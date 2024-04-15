@@ -39,9 +39,6 @@ This Python script is designed to process multiple videos by performing object d
 - Ensure the YOLOv5 model is properly installed and loaded before running the script. You can install it using PyTorch's `torch.hub.load()` function.
 - This script is intended for use with specific data formats and video processing requirements. Modify it as needed for your specific use case.
 
-## Author
-[Your Name]
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
