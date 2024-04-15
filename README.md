@@ -1,6 +1,3 @@
-Certainly! Here's a detailed README file for your project:
-
----
 
 # Video Processing with YOLOv5 and OpenCV
 
